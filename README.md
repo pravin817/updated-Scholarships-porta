@@ -1,1 +1,1 @@
-# updated-Scholarships-porta
+# scholarship-project
